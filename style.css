@@ -1,0 +1,18 @@
+th{
+    font-weight: 1000;
+}
+
+table{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-collapse: collapse;
+    border-width: 3px;
+    border-style: solid;
+    border-color: orange;
+}
+th{
+    font-weight: 1000;
+    background-color: orange;
+    color: white;
+}
+
+
